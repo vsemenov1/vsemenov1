@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vsemenov1
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on yandex.ru
 - 📫 How to reach me vsemenov1@gmail.com
 
 <!---
